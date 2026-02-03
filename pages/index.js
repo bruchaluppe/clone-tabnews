@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>BOA SORTE NA ENTREVISTA AMANHÃ! vai dar tudo certo tabo bjos ✌️✌️👩‍💼👩‍💼👩‍💼❤️❤️</h1>
+    return <h1>João 8:7 </h1>
 }
 
 export default Home;
